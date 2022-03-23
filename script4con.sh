@@ -4,7 +4,7 @@ PARAM1=$2
 PARAM2=$3
 ARGSNUMBER=$#
 AUTHFILE=.jfrogauth
-echo "hEY"
+echo "hi"
 # If this runs inside a container
 #[ -f /.dockerenv ] && echo "I'm in a container!"
 
